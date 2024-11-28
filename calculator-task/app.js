@@ -26,4 +26,3 @@ function calculate() {
         box.value = 'Error';
     }
 }
-
